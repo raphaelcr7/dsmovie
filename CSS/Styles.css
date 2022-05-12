@@ -73,7 +73,7 @@ a:hover {
 }
 
 .dsmovie-card {
-    width: 360px;
+    width: 100%;
     
 }
 
@@ -91,6 +91,10 @@ a:hover {
     padding: 10px 0 20px 0;
     background-color: var(--white);
     border-radius: 0 0 8px 8px;
+    min-height: 150px;
+    justify-content: space-between;
+    border-radius: 0 0 8px 8px;
+    
 
 }
 
